@@ -1,13 +1,24 @@
-﻿{
-	"name" : "@cook-code-jazor/encoding",
-	"version" : "1.0.0",
-	"description" : "提供unicode、utf-8、hex编码的支持。",
-	"keywords" : ["encoding", "Unicode", "UTF-8"],
-	"license" : "GPLv3",
-	"author" : 
-	{
-		"name" : "Anlige",
-		"email" : "zhanghuiguoanlige@126.com"
-	},
-	"main" : "index.js"
+{
+  "name": "@cook-code-jazor/encoding",
+  "version": "1.0.0",
+  "description": "提供unicode、utf-8、hex编码的支持。",
+  "keywords": [
+    "encoding",
+    "Unicode",
+    "UTF-8"
+  ],
+  "license": "UNLICENSED",
+  "author": "Anlige <zhanghuiguoanlige@126.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cook-code-jazor/encoding.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cook-code-jazor/encoding/issues"
+  },
+  "homepage": "https://github.com/cook-code-jazor/encoding#readme"
 }
