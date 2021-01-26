@@ -1,0 +1,13 @@
+﻿{
+	"name" : "encoding",
+	"version" : "1.0.0",
+	"description" : "提供unicode、utf-8、hex编码的支持。",
+	"keywords" : ["encoding", "Unicode", "UTF-8"],
+	"license" : "GPLv3",
+	"author" : 
+	{
+		"name" : "Anlige",
+		"email" : "zhanghuiguoanlige@126.com"
+	},
+	"main" : "index.js"
+}
