@@ -1,5 +1,5 @@
 ﻿{
-	"name" : "encoding",
+	"name" : "@cook-code-jazor/encoding",
 	"version" : "1.0.0",
 	"description" : "提供unicode、utf-8、hex编码的支持。",
 	"keywords" : ["encoding", "Unicode", "UTF-8"],
